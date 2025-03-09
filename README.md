@@ -11,7 +11,7 @@
     </ul>
 
 
-<p>I am familiar with the following tools and technologies in different proficiencies:</p>
+<p>I am familiar with the following tools and technologies at different proficiency levels:</p>
     <ul>
         <li><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <strong>Docker</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" /> <strong>Python</strong></li>
