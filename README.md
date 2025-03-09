@@ -13,13 +13,13 @@
 
 <p>I am familiar with the following tools and technologies at different proficiency levels:</p>
     <ul>
-        <li><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <strong>Docker</strong></li>
+        <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <strong>Docker</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" /> <strong>Python</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark" width="55" height="40"/> <strong>Apache Spark</strong></li>
         <li><a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <strong>Elasticsearch</strong></li>
-        <li><a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="35" height="35"/> </a> <strong>Kibana</strong></li>
-        <li><a href="https://airflow.apache.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="35" height="35"/> <strong>Airflow</strong></li>
-        <li><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <strong>SQL</strong></li>
+        <li> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="35" height="35"/> </a> <strong>Kibana</strong></li>
+        <li> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="35" height="35"/> <strong>Airflow</strong></li>
+        <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <strong>SQL</strong></li>
     </ul>
 
    
