@@ -1,6 +1,6 @@
 
 
-<p>Welcome to my GitHub profile! I'm a passionate about Data Acience with a keen interest in <strong>Big Data</strong>, <strong>MLOps</strong>, and <strong>Data Engineering</strong>. Currently, I am pursuing my <strong>second master's degree</strong> in <strong>Big Data and Business Analytics</strong> at <strong>ITU</strong> (Istanbul Technical University). I enjoy leveraging technology to solve complex problems, streamline workflows, and make data-driven decisions.</p>
+<p>Welcome to my GitHub profile! I'm a passionate about Data Science with a keen interest in <strong>Big Data</strong>, <strong>MLOps</strong>, and <strong>Data Engineering</strong>. Currently, I am pursuing my <strong>second master's degree</strong> in <strong>Big Data and Business Analytics</strong> at <strong>ITU</strong> (Istanbul Technical University). I enjoy leveraging technology to solve complex problems, streamline workflows, and make data-driven decisions.</p>
 
 <h2>Interests</h2>
     <ul>
