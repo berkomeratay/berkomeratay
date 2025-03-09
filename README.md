@@ -19,7 +19,7 @@
         <li><a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <strong>Elasticsearch</strong></li>
         <li><a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="35" height="35"/> </a> <strong>Kibana</strong></li>
         <li> <strong>Airflow</strong></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/SQL_Logo.svg" alt="SQL Logo" width="30" /> <strong>SQL</strong></li>
+        <li><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <strong>SQL</strong></li>
     </ul>
 
    
