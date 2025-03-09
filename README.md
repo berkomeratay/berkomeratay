@@ -13,7 +13,7 @@
 
 <p>I am familiar with the following tools and technologies in different proficiencies:</p>
     <ul>
-        <li><img src="https://raw.githubusercontent.com/docker/brand/master/logo/vertical/logo-invert.svg" alt="Docker Logo" width="30" /> <strong>Docker</strong></li>
+        <li><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <strong>Docker</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" /> <strong>Python</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark" width="55" height="40"/> <strong>Apache Spark</strong></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Elasticsearch_logo.svg" alt="Elasticsearch Logo" width="30" /> <strong>Elasticsearch</strong></li>
